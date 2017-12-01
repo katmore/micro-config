@@ -1,6 +1,6 @@
 {
    "name": "MicroConfig",
-   "description" : "micro package for php that implements configuration utility functionality",
+   "description" : "micro package for php that provides convenient ways to manage configuration files",
    "homepage":"https://github.com/katmore/micro-config",
     "autoload": {
         "psr-4": {
