@@ -1,0 +1,17 @@
+{
+   "name": "MicroConfig",
+   "description" : "micro package for php that implements configuration utility functionality",
+   "homepage":"https://github.com/katmore/micro-config",
+    "autoload": {
+        "psr-4": {
+            "MicroConfig\\": "src/MicroConfig/"
+        }
+    },
+	"license": [
+       "MIT",
+       "GPL-3.0+"
+    ],
+    "require": {
+        "php" : ">=7.1.1"
+     }    
+}
