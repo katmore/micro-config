@@ -1,5 +1,5 @@
 # MicroConfig
-micro package for php that implements configuration utility functionality
+micro package for php that provides convenient ways to manage configuration files
 
 ## Legal
 ### Copyright
